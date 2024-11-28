@@ -48,9 +48,10 @@ Open your browser and navigate to http://localhost:3000.
 
 
 📸 Screenshots
-
-
 Weather Display
+![image](https://github.com/user-attachments/assets/ccd4cf4d-aa48-4c4b-88cb-b2940e2b1c08)
+![image](https://github.com/user-attachments/assets/b679bac1-3ecf-497e-95e4-c3759c741ad8)
+
 
 ⚙️ API Configuration
 Sign up for an API key at OpenWeatherMap.
